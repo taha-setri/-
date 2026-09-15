@@ -1,0 +1,8 @@
+{
+  "name": "Remix حاسبات وتكوينات قطع الحاسوب والطاقة",
+  "description": "منصة تفاعلية لحساب استهلاك طاقة قطع الكمبيوتر (PSU Wattage Calculator) وتحويل وحدات تخزين البيانات الرقمية بدقة فائقة وبواجهة داكنة متجاوبة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
